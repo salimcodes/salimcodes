@@ -1,4 +1,4 @@
-name: Lastest Hashnode Blog Post
+name: Hashnode Blog Post
 on:
   schedule:
     # Runs every hour
