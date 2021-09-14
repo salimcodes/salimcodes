@@ -28,6 +28,8 @@
 - ⚡ Fun fact: I really hate writing bios.
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [How To Create an Awesome Custom GitHub Profile](https://salimcodes.hashnode.dev/how-to-create-an-awesome-custom-github-profile)
+- [Unsupervised Learning: The Mathematics behind the K-Means Clustering Algorithm](https://salimcodes.hashnode.dev/unsupervised-learning-the-mathematics-behind-the-k-means-clustering-algorithm)
 <!-- HASHNODE:END -->
 
 
