@@ -14,8 +14,12 @@
 
 [![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
 
-[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/salimcodes/github-readme-stats&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=vue)
+[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/salimcodes/github-readme-stats&theme=blue)
+
+![](https://activity-graph.herokuapp.com/graph?username=salimcodes&theme=react-dark&hide_border=true&area=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes" width="600px">
 
 ##
 - 🔭 I’m currently working on learning everyday.
