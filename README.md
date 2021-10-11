@@ -19,7 +19,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=salimcodes&theme=react-dark&hide_border=true&area=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes" width="600px">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes" width="500px">
 
 ##
 - 🔭 I’m currently working on learning everyday.
