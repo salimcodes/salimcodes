@@ -15,7 +15,8 @@
 
 [![Salim's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/salimcodes/github-readme-stats&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&layout=compact&theme=blue)](https://github.com/salimcodes/github-readme-stats)
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes" width="500px">
 
