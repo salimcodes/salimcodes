@@ -33,11 +33,11 @@
 - ⚡ Fun fact: I really hate writing bios.
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Open Source: My First Pull Request](https://salimcodes.hashnode.dev/open-source-my-first-pull-request)
 - [Mental Health and Software Engineers: Imposter Syndrome](https://salimcodes.hashnode.dev/mental-health-and-software-engineers-imposter-syndrome)
 - [Github Student Developer Pack Explained](https://salimcodes.hashnode.dev/github-student-developer-pack-explained)
 - [Mental Health And Software Engineers: Remote Work](https://salimcodes.hashnode.dev/mental-health-and-software-engineers-remote-work)
 - [How To Create an Awesome Custom GitHub Profile](https://salimcodes.hashnode.dev/how-to-create-an-awesome-custom-github-profile)
-- [Unsupervised Learning: The Mathematics behind the K-Means Clustering Algorithm](https://salimcodes.hashnode.dev/unsupervised-learning-the-mathematics-behind-the-k-means-clustering-algorithm)
 <!-- HASHNODE:END -->
 
 
