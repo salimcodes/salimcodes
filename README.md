@@ -32,11 +32,11 @@
 - ⚡ Fun fact: I really hate writing bios.
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Hacktoberfest: My Favourite Open Source Project](https://salimcodes.hashnode.dev/hacktoberfest-my-favourite-open-source-project)
 - [Cloud Computing as a Career in 2021](https://salimcodes.hashnode.dev/cloud-computing-as-a-career-in-2021)
 - [Open Source: My First Pull Request](https://salimcodes.hashnode.dev/open-source-my-first-pull-request)
 - [Mental Health and Software Engineers: Imposter Syndrome](https://salimcodes.hashnode.dev/mental-health-and-software-engineers-imposter-syndrome)
 - [Github Student Developer Pack Explained](https://salimcodes.hashnode.dev/github-student-developer-pack-explained)
-- [Mental Health And Software Engineers: Remote Work](https://salimcodes.hashnode.dev/mental-health-and-software-engineers-remote-work)
 <!-- HASHNODE:END -->
 
 
