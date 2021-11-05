@@ -17,19 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes" width="500px">
-
-![](https://activity-graph.herokuapp.com/graph?username=salimcodes&theme=react-dark&hide_border=true&area=true)
-
-##
-- 🔭 I’m currently working on learning everyday.
-- 🌱 I’m currently learning IT Automation with Python taught by the Google team and Machine Learning Engineering for Production (MLOps) taught by Andrew Ng {both via coursera}.
-- 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning Open-Source Projects.
-- 🤔 I’m looking for help with any Data Science, Machine Learning and Deep Learning Projects.
-- 💬 Ask me about Artificial Intelligence and Technology in general.
-- 📫 How to reach me: 👇
-- 😄 Pronouns: He and His.
-- ⚡ Fun fact: I really hate writing bios.
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
 - [HacktoberFest 2021: My First Experience Contributing to Open Source Projects](https://salimcodes.hashnode.dev/hacktoberfest-2021-my-first-experience-contributing-to-open-source-projects)
