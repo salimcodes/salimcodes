@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [My First Machine Learning App – The Code &lpar;Line-by-line explanation&rpar;](https://salimcodes.hashnode.dev/my-first-machine-learning-app-the-code-line-by-line-explanation)
 - [HacktoberFest 2021: My First Experience Contributing to Open Source Projects](https://salimcodes.hashnode.dev/hacktoberfest-2021-my-first-experience-contributing-to-open-source-projects)
 - [Hacktoberfest: My Favourite Open Source Project](https://salimcodes.hashnode.dev/hacktoberfest-my-favourite-open-source-project)
 - [Cloud Computing as a Career in 2021](https://salimcodes.hashnode.dev/cloud-computing-as-a-career-in-2021)
 - [Open Source: My First Pull Request](https://salimcodes.hashnode.dev/open-source-my-first-pull-request)
-- [Mental Health and Software Engineers: Imposter Syndrome](https://salimcodes.hashnode.dev/mental-health-and-software-engineers-imposter-syndrome)
 <!-- HASHNODE:END -->
 
 
