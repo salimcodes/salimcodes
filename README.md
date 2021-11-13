@@ -1,5 +1,5 @@
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > If you are here, you are probably wondering who Salim Olanrewaju Oyinlola is; 
 
@@ -29,7 +29,6 @@
 
 ## ✉️ Find me on:
 
-[<img align="left" alt="Salim O." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://salimopines.medium.com/)
 [<img align="left" alt="salimopines | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/salimopines)
 [<img align="left" alt="Salim Oyinlola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/salim-oyinlola/)
 [<img align="left" alt="Salim.Ingram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salim.ingram)
