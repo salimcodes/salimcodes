@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Unsupervised Learning: The Mathematics behind Linear Regression Algorithm](https://salimcodes.hashnode.dev/unsupervised-learning-the-mathematics-behind-linear-regression-algorithm)
 - [Web3: Why don’t you explain it to me like I am 5 years old?](https://salimcodes.hashnode.dev/web3-why-dont-you-explain-it-to-me-like-i-am-5-years-old)
 - [My First Machine Learning App: Deploying Locally](https://salimcodes.hashnode.dev/my-first-machine-learning-app-deploying-locally)
 - [My First Machine Learning App – The Code &lpar;Line-by-line explanation&rpar;](https://salimcodes.hashnode.dev/my-first-machine-learning-app-the-code-line-by-line-explanation)
 - [HacktoberFest 2021: My First Experience Contributing to Open Source Projects](https://salimcodes.hashnode.dev/hacktoberfest-2021-my-first-experience-contributing-to-open-source-projects)
-- [Hacktoberfest: My Favourite Open Source Project](https://salimcodes.hashnode.dev/hacktoberfest-my-favourite-open-source-project)
 <!-- HASHNODE:END -->
 
 
