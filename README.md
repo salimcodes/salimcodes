@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Hey-Hi: Artificial Intelligence in Finance](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-finance)
 - [Hey-Hi: Artificial Intelligence in Medicine](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-medicine)
 - [The Defeats and Victories - 2021, My Year in Review](https://salimcodes.hashnode.dev/the-defeats-and-victories-2021-my-year-in-review)
 - [Unsupervised Learning: The Mathematics behind Linear Regression Algorithm](https://salimcodes.hashnode.dev/unsupervised-learning-the-mathematics-behind-linear-regression-algorithm)
 - [Web3: Why don’t you explain it to me like I am 5 years old?](https://salimcodes.hashnode.dev/web3-why-dont-you-explain-it-to-me-like-i-am-5-years-old)
-- [My First Machine Learning App: Deploying Locally](https://salimcodes.hashnode.dev/my-first-machine-learning-app-deploying-locally)
 <!-- HASHNODE:END -->
 
 
