@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Hey-Hi: Artificial Intelligence in Education](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-education)
 - [Hey-Hi: Artificial Intelligence vis-à-vis Industrial Automation](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-vis-a-vis-industrial-automation)
 - [Hey-Hi: Artificial Intelligence in Finance](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-finance-1)
 - [Hey-Hi: Artificial Intelligence in Medicine](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-medicine)
 - [The Defeats and Victories - 2021, My Year in Review](https://salimcodes.hashnode.dev/the-defeats-and-victories-2021-my-year-in-review)
-- [Unsupervised Learning: The Mathematics behind Linear Regression Algorithm](https://salimcodes.hashnode.dev/unsupervised-learning-the-mathematics-behind-linear-regression-algorithm)
 <!-- HASHNODE:END -->
 
 
