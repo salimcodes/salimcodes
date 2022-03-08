@@ -15,7 +15,7 @@
 
 [![Salim's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/salimcodes/github-readme-stats&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
