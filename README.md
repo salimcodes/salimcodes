@@ -27,10 +27,15 @@
 <!-- HASHNODE:END -->
 
 
+
+##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
+
 ## ✉️ Find me on:
 
 [<img align="left" alt="salimopines | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/salimopines)
 [<img align="left" alt="Salim Oyinlola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/salim-oyinlola/)
 [<img align="left" alt="Salim.Ingram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salim.ingram)
 
-## For technical writing gigs, send me an email (here)[mailto:salimoyinlola@gmail.com]
+
+
+
