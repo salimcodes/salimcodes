@@ -5,9 +5,9 @@
 
 - Salim is an Undergrad. student at University of Lagos, studying Electrical and Electronics Engineering.
 
-- A Machine Learning and Artificial Intelligence enthusiast, he is quite fond of making use of data and patterns to develop insights and analysis as well as supervised and unsupervised models in decision making and intelligence.
-
-- An enthusiastic and result-driven individual with a strong yearning to learn. Posesses excellent organization, presentation, and time management skills in effectively communicating with people and paying attention to details. He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
+- As a Machine Learning and Artificial Intelligence enthusiast, he is quite fond of making use of data and patterns to develop insights and analysis.
+- As a technical content writer, he possesses excellent organization, presentation, and time management in effectively communicating with people and paying attention to details. 
+- He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=salimcodes.salimcodes)
 
