@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Project 1 - Rock vs Mine Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-1-rock-vs-mine-prediction-using-machine-learning-with-python)
 - [Hey-Hi: Artificial Intelligence Issues, Concerns and Ethical Considerations](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-issues-concerns-and-ethical-considerations)
 - [Hey-Hi: Artificial Intelligence in Education](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-education-1)
 - [Hey-Hi: Artificial Intelligence vis-à-vis Industrial Automation](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-vis-a-vis-industrial-automation)
 - [Hey-Hi: Artificial Intelligence in Finance](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-finance-1)
-- [Hey-Hi: Artificial Intelligence in Medicine](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-in-medicine)
 <!-- HASHNODE:END -->
 
 
