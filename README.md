@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Project 5 - Loan Status Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-5-loan-status-prediction-using-machine-learning-with-python)
 - [Project 4 - Fake News Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-4-fake-news-prediction-using-machine-learning-with-python)
 - [Project 3 - House Prices Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-3-house-prices-prediction-using-machine-learning-with-python)
 - [Project 2 - Diabetes Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-2-diabetes-prediction-using-machine-learning-with-python)
 - [Project 1 - Rock vs Mine Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-1-rock-vs-mine-prediction-using-machine-learning-with-python)
-- [Hey-Hi: Artificial Intelligence Issues, Concerns and Ethical Considerations](https://salimcodes.hashnode.dev/hey-hi-artificial-intelligence-issues-concerns-and-ethical-considerations)
 <!-- HASHNODE:END -->
 
 
