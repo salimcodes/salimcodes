@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Project 9 - Medical Insurance Cost Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-9-medical-insurance-cost-prediction-using-machine-learning-with-python)
 - [Project 8 - Gold Price Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-8-gold-price-prediction-using-machine-learning-with-python)
 - [Project 7 - Car Prices Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-7-car-prices-prediction-using-machine-learning-with-python)
 - [Project 6 - Wine Quality Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-6-wine-quality-prediction-using-machine-learning-with-python)
 - [Project 5 - Loan Status Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-5-loan-status-prediction-using-machine-learning-with-python)
-- [Project 4 - Fake News Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-4-fake-news-prediction-using-machine-learning-with-python)
 <!-- HASHNODE:END -->
 
 
