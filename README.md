@@ -1,7 +1,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> If you are here, you are probably wondering who Salim Olanrewaju Oyinlola is; 
+> If you are here, you are probably wondering who Salim Olanrewaju Oyinlola is 
 
 - Salim is an Undergrad. student at University of Lagos, studying Electrical and Electronics Engineering.
 
