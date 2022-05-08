@@ -27,8 +27,6 @@
 - [Project 8 - Gold Price Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-8-gold-price-prediction-using-machine-learning-with-python)
 <!-- HASHNODE:END -->
 
-
-
 ##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
 
 #### In order to defend and preserve the honour of the profession of computer programmers, I promise that, to the best of my ability and judgement that- 
