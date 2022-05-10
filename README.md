@@ -36,8 +36,8 @@
 - [x] I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should. 
 - [x] I will make frequent, small releases so that I do not impede the progress of others
 - [x] I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
-- [x] I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases productivity.
 - [x] I will never stop learning and improving my craft.   
+- [x] I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases productivity.
 
 ## ✉️ Find me on:
 
