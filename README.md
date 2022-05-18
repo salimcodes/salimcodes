@@ -19,11 +19,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [12 Principles for your first Technical Article](https://salimcodes.hashnode.dev/12-principles-for-your-first-technical-article)
 - [AutoML: Where Artificial Intelligence meets Cloud Computing](https://salimcodes.hashnode.dev/automl-where-artificial-intelligence-meets-cloud-computing)
 - [DALL-E: Imagining the world, one image at a time](https://salimcodes.hashnode.dev/dall-e-imagining-the-world-one-image-at-a-time)
 - [How I Built a Neural Network to Recognize Handwritten Digits](https://salimcodes.hashnode.dev/how-i-built-a-neural-network-to-recognize-handwritten-digits)
 - [Project 10- Credit Card Fraud Detection using Machine Learning with Python](https://salimcodes.hashnode.dev/project-10-credit-card-fraud-detection-using-machine-learning-with-python)
-- [Project 9 - Medical Insurance Cost Prediction using Machine Learning with Python](https://salimcodes.hashnode.dev/project-9-medical-insurance-cost-prediction-using-machine-learning-with-python)
 <!-- HASHNODE:END -->
 
 ##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
