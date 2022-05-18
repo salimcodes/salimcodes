@@ -14,9 +14,8 @@
 
 [![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
 
-[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes)](https://github.com/salimcodes/github-readme-stats&theme=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salimcodes&theme=blue)
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salimcodes&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
@@ -29,7 +28,7 @@
 
 ##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
 
-#### In order to defend and preserve the honour of the profession of computer programmers, I promise that, to the best of my ability and judgement that- 
+## In order to defend and preserve the honour of the profession of computer programmers, I promise that, to the best of my ability and judgement that- 
 
 - [x] I will not produce harmful code.
 - [x] The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate. 
@@ -41,10 +40,11 @@
 
 ## ✉️ Find me on:
 
-[<img align="left" alt="salimopines | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/salimopines)
-[<img align="left" alt="Salim Oyinlola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/salim-oyinlola/)
-[<img align="left" alt="Salim.Ingram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salim.ingram)
-
-
-
+<p align="left"><a 
+href="https://twitter.com/SalimOpines" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
+href="https://www.linkedin.com/in/Salim-Oyinlola" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://medium.com/@salimopines" target="_blank"><img alt="Medium" 
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 
