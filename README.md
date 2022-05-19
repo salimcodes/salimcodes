@@ -14,9 +14,6 @@
 
 [![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
 
-### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salimcodes&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
 - [12 Principles for your first Technical Article](https://salimcodes.hashnode.dev/12-principles-for-your-first-technical-article)
