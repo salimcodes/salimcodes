@@ -25,7 +25,7 @@
 
 ##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
 
-## In order to defend and preserve the honour of the profession of computer programmers, I promise that, to the best of my ability and judgement that- 
+## In order to defend and preserve the honour of the profession of computer programmers, I promise that, to the best of my ability and judgement that...
 
 - [x] I will not produce harmful code.
 - [x] The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate. 
