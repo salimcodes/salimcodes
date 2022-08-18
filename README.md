@@ -10,9 +10,6 @@
 
 - He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
  
-![](https://visitor-badge.laobi.icu/badge?page_id=salimcodes.salimcodes)
-
-[![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
