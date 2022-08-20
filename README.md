@@ -13,11 +13,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
-- [One line of code at a time: Here are my why’s.](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-here-are-my-whys)
 - [Overcoming Imposter Syndrome as a Software Developer](https://salimcodes.hashnode.dev/overcoming-imposter-syndrome-as-a-software-developer)
 - [Running the Red Lights: How I aced my AZ-900 Microsoft Azure Fundamentals Certification Exams](https://salimcodes.hashnode.dev/running-the-red-lights-how-i-aced-my-az-900-microsoft-azure-fundamentals-certification-exams)
 - [MLOps? Why don&#39;t you explain this to me like I am five?](https://salimcodes.hashnode.dev/mlops-why-dont-you-explain-this-to-me-like-i-am-five)
 - [12 Principles for your first Technical Article](https://salimcodes.hashnode.dev/12-principles-for-your-first-technical-article)
+- [AutoML: Where Artificial Intelligence meets Cloud Computing](https://salimcodes.hashnode.dev/automl-where-artificial-intelligence-meets-cloud-computing)
 <!-- HASHNODE:END -->
 
 ##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
