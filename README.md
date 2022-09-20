@@ -1,6 +1,6 @@
 ## Hello, folks!
 
-> If you are here, you are probably wondering who Salim Olanrewaju Oyinlola is; 
+> If you are here, you are probably wondering who Salim Oyinlola is; 
 
 - Salim is an Undergrad. student at University of Lagos, currently studying Electrical and Electronics Engineering. He is also a Microsoft Learn Student Ambassador.
 
