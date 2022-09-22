@@ -20,7 +20,7 @@
 - [Overcoming Imposter Syndrome as a Software Developer](https://salimcodes.hashnode.dev/overcoming-imposter-syndrome-as-a-software-developer)
 <!-- HASHNODE:END -->
 
-##### For technical writing gigs, send me an email [here](mailto:salimoyinlola@gmail.com)
+##### For technical writing opportunities, send me an email [here](mailto:salimoyinlola@gmail.com)
 
 
 - [x] I will not produce harmful code.
