@@ -2,13 +2,13 @@
 
 > If you are here, you are probably wondering who Salim Oyinlola is; 
 
-- Salim is an Undergrad. at University of Lagos, currently studying Electrical and Electronics Engineering. He is also a Microsoft Learn Student Ambassador.
+- Salim is an Undergrad. student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python and the Azure Cognitive Service. 
 
-- As a Machine Learning and AI enthusiast, he is quite fond of making use of data and patterns to develop insights and analysis.
+- He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
-- As a technical content writer, he possesses excellent organization, presentation, and time management in effectively communicating with people and paying attention to details. 
+- He is a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
 
-- He has demonstrated integrity, teamwork, dexterity and leadership skills to effectively work in a professional setting with proven ability to be strategic, tactical and engage in critical thinking in complex problem solving.
+- He also serves a Zindi University Ambassador where he represents Zindi Africa in Nigeria as one of the group of leaders in Africa Machine Learning and AI. 
  
 
 ## Hashnode Blog Post
@@ -20,7 +20,7 @@
 - [Overcoming Imposter Syndrome as a Software Developer](https://salimcodes.hashnode.dev/overcoming-imposter-syndrome-as-a-software-developer)
 <!-- HASHNODE:END -->
 
-##### For technical writing opportunities, send me an email [here](mailto:salimoyinlola@gmail.com)
+##### For technical writing opportunities, you can reach me [here](mailto:salimoyinlola@gmail.com). 
 
 
 - [x] I will not produce harmful code.
