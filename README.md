@@ -12,7 +12,7 @@
  
 
 
-## Hashnode Blog Post
+## Hashnode Blog Posts
 <!-- HASHNODE:START -->
 - [One line of code at a time: How I built an AI web translator app with Azure cognitive services and Flask](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask)
 - [One line of code at a time: How Artificial Intelligence would be revolutionary for the healthcare social problem](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-artificial-intelligence-would-be-revolutionary-for-the-healthcare-social-problem)
