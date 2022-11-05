@@ -8,7 +8,7 @@
 
 - He is a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
 
-- He also serves a Zindi University Ambassador where he represents Zindi Africa in Nigeria as one of the group of leaders in Africa Machine Learning and AI. 
+- He also serves as a Zindi University Ambassador where he represents Zindi Africa in Nigeria as one of the group of leaders in Africa Machine Learning and AI. 
  
 
 
