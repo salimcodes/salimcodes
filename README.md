@@ -10,8 +10,6 @@
 
 - He also serves as a Zindi University Ambassador where he represents Zindi Africa in Nigeria as one of the group of leaders in Africa Machine Learning and AI. 
  
-<a href=#><img src="contributions.svg"></a>
-
 ## Hashnode Blog Posts
 <!-- HASHNODE:START -->
 - [One line of code at a time: How I built an AI web translator app with Azure cognitive services and Flask](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask)
