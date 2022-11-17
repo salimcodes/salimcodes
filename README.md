@@ -6,9 +6,12 @@
 
 - He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
+- As a GitHub Campus Expert, he represents and supports his local technical community of almost 300 active members with support from GitHub by organizing technical sessions, events, talks. 
+
 - He is a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
 
 - He also serves as a Zindi University Ambassador where he represents Zindi Africa in Nigeria as one of the group of leaders in Africa Machine Learning and AI. 
+ 
  
 ## Hashnode Blog Posts
 <!-- HASHNODE:START -->
