@@ -15,11 +15,11 @@
  
 ## Hashnode Blog Posts
 <!-- HASHNODE:START -->
-- [One line of code at a time: How I built an AI web translator app with Azure cognitive services and Flask](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask)
-- [One line of code at a time: How Artificial Intelligence would be revolutionary for the healthcare social problem](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-artificial-intelligence-would-be-revolutionary-for-the-healthcare-social-problem)
-- [One line of code at a time: Inspired by Microsoft](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-inspired-by-microsoft)
-- [One line of code at a time: Here are my why’s.](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-here-are-my-whys)
-- [Overcoming Imposter Syndrome as a Software Developer](https://salimcodes.hashnode.dev/overcoming-imposter-syndrome-as-a-software-developer)
+- [One line of code at a time: How I built an AI web translator app with Azure cognitive services and Flask](https://heyhi.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask)
+- [One line of code at a time: How Artificial Intelligence would be revolutionary for the healthcare social problem](https://heyhi.dev/one-line-of-code-at-a-time-how-artificial-intelligence-would-be-revolutionary-for-the-healthcare-social-problem)
+- [One line of code at a time: Inspired by Microsoft](https://heyhi.dev/one-line-of-code-at-a-time-inspired-by-microsoft)
+- [One line of code at a time: Here are my why’s.](https://heyhi.dev/one-line-of-code-at-a-time-here-are-my-whys)
+- [Overcoming Imposter Syndrome as a Software Developer](https://heyhi.dev/overcoming-imposter-syndrome-as-a-software-developer)
 <!-- HASHNODE:END -->
 
 ##### For technical writing opportunities, you can reach me [here](mailto:salimoyinlola@gmail.com). 
