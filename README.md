@@ -13,11 +13,11 @@
  
 ## Blog Posts
 <!-- HASHNODE:START -->
+- [From Dream to Reality: The Inspiring Story of OpenAI&#39;s Journey from Scratch](https://heyhi.dev/from-dream-to-reality-the-inspiring-story-of-openais-journey-from-scratch)
 - [One line of code at a time: How I built an AI web translator app with Azure cognitive services and Flask](https://heyhi.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask)
 - [One line of code at a time: How Artificial Intelligence would be revolutionary for the healthcare social problem](https://heyhi.dev/one-line-of-code-at-a-time-how-artificial-intelligence-would-be-revolutionary-for-the-healthcare-social-problem)
 - [One line of code at a time: Inspired by Microsoft](https://heyhi.dev/one-line-of-code-at-a-time-inspired-by-microsoft)
 - [One line of code at a time: Here are my why’s.](https://heyhi.dev/one-line-of-code-at-a-time-here-are-my-whys)
-- [Overcoming Imposter Syndrome as a Software Developer](https://heyhi.dev/overcoming-imposter-syndrome-as-a-software-developer)
 <!-- HASHNODE:END -->
 
 ##### For technical writing opportunities, you can reach me [here](mailto:salimoyinlola@gmail.com). 
