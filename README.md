@@ -30,3 +30,22 @@
 - [x] I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
 - [x] I will never stop learning and improving my craft.   
 - [x] I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases productivity.
+
+<!--   GitHub stats graph -->
+## GitHub Activity Graph
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salimcodes&theme=github-compact)](https://github.com/salimcodes/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes&show_icons=true&theme=radical&include_all_commits=true) | ![Salim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/salimcodes/salimcodes/blob/output/github-contribution-grid-snake.svg)
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=salimcodes" width="auto"></img>
