@@ -23,7 +23,7 @@
 ##### For technical writing opportunities, you can reach me [here](mailto:salimoyinlola@gmail.com). 
 
 
-- [x] I will not produce harmful code.
+- [x] I will not write harmful code.
 - [x] The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate. 
 - [x] I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should. 
 - [x] I will make frequent, small releases so that I do not impede the progress of others
