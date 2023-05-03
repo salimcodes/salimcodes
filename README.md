@@ -33,10 +33,4 @@
 
 <!--   GitHub stats graph -->
 ## GitHub Activity Graph
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salimcodes&theme=github-compact)](https://github.com/salimcodes/github-readme-activity-graph)
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=salimcodes&show_icons=true&theme=radical&include_all_commits=true) | ![Salim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes"></img>
