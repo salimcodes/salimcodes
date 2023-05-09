@@ -6,8 +6,6 @@
 
 - He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
-- As a GitHub Campus Expert, he represents and supports his local technical community of almost 300 active members with support from GitHub by organizing technical sessions, events, talks. 
-
 - He is a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
  
  
@@ -30,7 +28,3 @@
 - [x] I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
 - [x] I will never stop learning and improving my craft.   
 - [x] I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases productivity.
-
-<!--   GitHub stats graph -->
-## GitHub Activity Graph
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salimcodes"></img>
