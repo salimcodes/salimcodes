@@ -2,11 +2,11 @@
 
 > If you are here, you are probably wondering who Salim Oyinlola is; 
 
-- Salim is an Undergraduate student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python and the Azure Cognitive Services. 
-
+- Salim is an Undergraduate student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python.
+- 
 - He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
-- He is a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
+- He is a GitHub Campus Expert, a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
  
  
 ## Blog Posts
