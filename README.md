@@ -6,7 +6,7 @@
   
 - He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
-- A big advocate for tech communities, Salim is a GitHub Campus Expert, a Microsoft Learn Student Ambassador, and he possesses two Azure certifications.
+- A big advocate for tech communities, Salim is a GitHub Campus Expert, a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/8c4773d7-5893-4dfd-ad9f-1c20cbd73b6a), and he possesses two Azure certifications.
  
  
 ## Blog Posts
