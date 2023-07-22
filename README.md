@@ -2,7 +2,7 @@
 
 > If you are here, you are probably wondering who Salim Oyinlola is; 
 
-- Salim is an Undergraduate student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python.
+- Salim is an Undergraduate student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python. He approaches technical writing as a story-telling experience [here](https://heyhi.dev).
   
 - He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
 
