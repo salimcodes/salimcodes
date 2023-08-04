@@ -1,15 +1,6 @@
-## Hey, Hi; Yes, this is he.
-
-> If you are here, you are probably wondering who Salim Oyinlola is; 
-
-- Salim is an Undergraduate student at the University of Lagos. He is a Machine Learning Engineer who builds AI solutions using Python. He approaches technical writing as a story-telling experience [here](https://heyhi.dev).
-  
-- He also authors technical articles on everything between Artificial Intelligence/Machine Learning and Cloud Computing. 
-
-- A big advocate for tech communities, Salim is a [GitHub Campus Expert](https://githubcampus.expert/salimcodes/) and [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/8c4773d7-5893-4dfd-ad9f-1c20cbd73b6a).
+## Hey, Hi; Yes, this is he. 
  
- 
-## Blog Posts
+### Blog Posts
 <!-- HASHNODE:START -->
 - [QWERTY: How to  build an end-to-end Machine Learning Web App to determine which customers are likely to stop using a bank with the MindsDB Python SDK](https://heyhi.dev/qwerty-how-to-build-an-end-to-end-machine-learning-web-app-to-determine-which-customers-are-likely-to-stop-using-a-bank-with-the-mindsdb-python-sdk)
 - [How to build a Machine Learning Model for Business Optimization with MindsDB using a DigitalOcean Droplet and Docker](https://heyhi.dev/how-to-build-a-machine-learning-model-for-business-optimization-with-mindsdb-using-a-digitalocean-droplet-and-docker)
@@ -18,12 +9,3 @@
 - [One line of code at a time: How Artificial Intelligence would be revolutionary for the healthcare social problem](https://heyhi.dev/one-line-of-code-at-a-time-how-artificial-intelligence-would-be-revolutionary-for-the-healthcare-social-problem)
 <!-- HASHNODE:END -->
 
-##### For technical writing opportunities, you can reach me [here](mailto:salimoyinlola@gmail.com). 
-
-- [x] I will not write harmful code.
-- [x] The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate. 
-- [x] I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should. 
-- [x] I will make frequent, small releases so that I do not impede the progress of others
-- [x] I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
-- [x] I will never stop learning and improving my craft.   
-- [x] I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases productivity.
