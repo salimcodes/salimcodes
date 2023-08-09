@@ -1,4 +1,4 @@
-## Hey, Hi; Yes, this is he. 
+## Hey, Hi;
  
 ### Blog Posts
 <!-- HASHNODE:START -->
